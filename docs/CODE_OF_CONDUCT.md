@@ -15,7 +15,7 @@ company for everyone, regardless of ability, age, body size, ethnicity,
 experience, gender identity and expression, nationality, personal appearance,
 race, religion, sexual orientation, or other characteristic.
 
-This Code of Conduct applies to all one-on-one communications, slack channels,
+This Code of Conduct applies to all one-on-one communications, Slack channels,
 retreats and Test Double events, but also to activities outside of that scope,
 online and in person — anywhere such behaviour has the potential to adversely
 affect the safety and well-being of employees.
